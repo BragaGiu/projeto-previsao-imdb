@@ -9,7 +9,7 @@ O projeto nasceu de um desafio prático e combina análise exploratória de dado
 - **README.md**: documento de apresentação do projeto.
 - **requirements.txt**: lista de bibliotecas necessárias para rodar o projeto de forma reprodutível.  
 - **notebooks/LH_CD_GIULLIABRAGA.ipynb**: notebook principal, contendo a análise exploratória (EDA), a modelagem preditiva e as respostas às perguntas do desafio.  
-- **reports/LH_CD_GIULLIABRAGA.pdf**: relatório em PDF exportado do notebook.
+- **reports/LH_CD_GIULLIABRAGA.ipynb**: relatório elaborado no mesmo arquivo do notebook principal. 
 - **models/model.pkl**: modelo final treinado (XGBoost Regressor), salvo em formato pickle para reutilização sem necessidade de re-treino.  
 - **data/desafio_indicium_imdb.csv**: dataset original fornecido no desafio.  
 - **data/movies_metadata.csv**: informações complementares coletadas e integradas ao dataset principal.  
